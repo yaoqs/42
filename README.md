@@ -9,3 +9,9 @@
 
 ## NHK纪录片.txt
 部分NHK纪录片的下载链接，ed2k协议
+
+## 天气预报API城市代号.xml
+xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-省-市-县四级结构
+
+## china-city-list.csv
+表格形式全国城市（包含台湾省）citycode（cityid、citykey）、经纬度等信息，共3242条记录
