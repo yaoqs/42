@@ -1,7 +1,10 @@
+[TOC]
 # 42
 > * Sharing is an Art. -the Artist
 > * From the Internet, To the Internet. 
 > * The Framer, Collectors，Miner, and Porter of Internet. 互联网的农夫、矿工、搬运工。
+
+
 
 ## 我的博客
 * CSDN：https://blog.csdn.net/yaokingson/
@@ -33,6 +36,10 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 * [ThinkJulia.jl (in github)](https://github.com/BenLauwens/ThinkJulia.jl)
 * [Think Julia：如何像计算机科学家一样思考](https://blog.csdn.net/m0_37696990/article/details/82710429)
 
-# License & Copyright
+## [gitbook](https://www.gitbook.com/)
+* [基于 Github 项目创建 GitBook 在线电子书](http://www.youmeek.com/gitbook-and-github/)
+
+
+## License & Copyright
 > 版权声明：Copyright © 2019 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。 
 > ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
