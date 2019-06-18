@@ -22,7 +22,11 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 表格形式全国城市（包含台湾省）citycode（cityid、citykey）、经纬度等信息，共3242条记录
 
 
+## python
+* [Think Python (像计算机科学家一样思考python 第二版)](https://www.ctolib.com/docs/sfile/think-python-2e/index.html)
 
+## C/C++
+* [c库函数.md](https://github.com/yaoqs/42/blob/master/C%5CC%2B%2B/c%E5%BA%93%E5%87%BD%E6%95%B0.md)
 
 # License & Copyright
 > 版权声明：Copyright © 2019 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。 
