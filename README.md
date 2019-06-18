@@ -28,6 +28,11 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 ## C/C++
 * [c库函数.md](https://github.com/yaoqs/42/blob/master/C%5CC%2B%2B/c%E5%BA%93%E5%87%BD%E6%95%B0.md)
 
+## [Julia](https://julialang.org)
+* [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+* [ThinkJulia.jl (in github)](https://github.com/BenLauwens/ThinkJulia.jl)
+* [Think Julia：如何像计算机科学家一样思考](https://blog.csdn.net/m0_37696990/article/details/82710429)
+
 # License & Copyright
 > 版权声明：Copyright © 2019 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。 
 > ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
