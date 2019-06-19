@@ -6,6 +6,8 @@
 > * 42: Douglas Adams' Amazingly Accurate Answer to Life, the Universe and Everything, looks at real-life occurrences of the number 42
 
 
+## 微博客
+* 新浪微博 https://gitee.com/yaoqs
 
 ## 我的博客
 * CSDN：https://blog.csdn.net/yaokingson/
