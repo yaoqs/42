@@ -3,12 +3,17 @@
 > * Sharing is an Art. -the Artist
 > * From the Internet, To the Internet. 
 > * The Framer, Collectors，Miner, and Porter of Internet. 互联网的农夫、矿工、搬运工。
+> * 42: Douglas Adams' Amazingly Accurate Answer to Life, the Universe and Everything, looks at real-life occurrences of the number 42
 
 
 
 ## 我的博客
 * CSDN：https://blog.csdn.net/yaokingson/
 * 博客园：https://www.cnblogs.com/yaoqs
+* 开源中国 https://my.oschina.net/yaoqs
+
+## 代码仓
+* 码云 https://gitee.com/yaoqs
 
 ## 【A Heavily Commented Linux Kernel Source Code 】同济大学赵炯编著的《Linux内核完全注释》
 > * 中文版本，共1016页，PDF格式。http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf
