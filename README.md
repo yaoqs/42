@@ -40,5 +40,6 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 
 
 ## License & Copyright
-> 版权声明：Copyright © 2019 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。 
-> ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+* 版权声明：Copyright © 2019 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+* https://choosealicense.com/licenses/cc-by-sa-4.0/ ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)\
+知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
