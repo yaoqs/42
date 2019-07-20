@@ -10,7 +10,8 @@
 > * 中文版本，共1016页，PDF格式。http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf
 > * 英文版本，共1117页，PDF格式。http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf
 
-## [《Linux就该这么学》](https://www.linuxprobe.com/)
+## Linux
+* [《Linux就该这么学》](https://www.linuxprobe.com/)
 
 
 ## NHK纪录片.txt
@@ -38,6 +39,8 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 ## [gitbook](https://www.gitbook.com/)
 * [基于 Github 项目创建 GitBook 在线电子书](http://www.youmeek.com/gitbook-and-github/)
 
+## Machine-learning-Related
+* [本人搜集](https://github.com/yaoqs/Machine-learning-Related)
 
 ## License & Copyright
 * 版权声明：Copyright © 2019 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
