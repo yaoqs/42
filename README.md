@@ -15,7 +15,7 @@
 
 
 ## 纪录片
-内容详见目录下readme.md
+内容详见目录下[readme.md](https://github.com/yaoqs/42/blob/master/%E7%BA%AA%E5%BD%95%E7%89%87/README.md)
 
 ## 天气
 ### 天气预报API城市代号.xml
