@@ -14,8 +14,8 @@
 * [《Linux就该这么学》](https://www.linuxprobe.com/)
 
 
-## NHK纪录片.txt
-部分NHK纪录片的下载链接，ed2k协议
+## 纪录片
+内容详见目录下readme.md
 
 ## 天气
 ### 天气预报API城市代号.xml
