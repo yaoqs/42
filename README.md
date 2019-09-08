@@ -29,6 +29,7 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 * [Think Python (像计算机科学家一样思考python 第二版)](https://www.ctolib.com/docs/sfile/think-python-2e/index.html)
 
 ## C/C++
+* [像计算机科学家一样思考（C++版)](https://www.w3cschool.cn/hbvlgw/)
 * [c库函数.md](https://github.com/yaoqs/42/blob/master/C%5CC%2B%2B/c%E5%BA%93%E5%87%BD%E6%95%B0.md)
 
 ## [Julia](https://julialang.org)
