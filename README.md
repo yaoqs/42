@@ -12,9 +12,21 @@
 > * 中文版本，共1016页，PDF格式。<http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf>
 > * 英文版本，共1117页，PDF格式。<http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf>
 
+## reverse engineering for beginners
+
+Quick introduction to reverse engineering for beginners
+
+> Compiled versions are:
+>
+> * (English) <http://yurichev.com/non-wiki-files/RE_for_beginners-en.pdf>
+> * (Russian) <http://yurichev.com/non-wiki-files/RE_for_beginners-ru.pdf>
+>
+
 ## Linux
 
 * [《Linux就该这么学》](https://www.linuxprobe.com/)
+
+## [O’Reilly](https://www.oreilly.com/)
 
 ## 纪录片
 
@@ -33,6 +45,7 @@ xml格式全国城市（包含台湾省）citycode（cityid、citykey），国-�
 ## 学术
 
 EI 目录
+
 * [CHIMICA-SOURCE-LIST-102021.xlsx](https://www.elsevier.com/__data/assets/excel_doc/0020/57116/CHIMICA-SOURCE-LIST-102021.xlsx)
 * [CPXSourceList012022.xlsx](https://www.elsevier.com/__data/assets/excel_doc/0007/56392/CPXSourceList012022.xlsx)
 
@@ -55,9 +68,17 @@ EI 目录
 
 * [基于 Github 项目创建 GitBook 在线电子书](http://www.youmeek.com/gitbook-and-github/)
 
-## Machine-learning-Related
+## powershell
 
-* [本人搜集](https://github.com/yaoqs/Machine-learning-Related)
+* [PowerShell 在线教程](https://www.pstips.net/powershell-online-tutorials/)
+
+## [lua](https://www.lua.org/)
+
+## [yaoqs/Machine-learning-Related](https://yaoqs.github.io/Machine-learning-Related)
+
+<https://github.com/yaoqs/Machine-learning-Related> Description: 本人收集的机器学习(Machine Learning, ML)相关资料
+
+## [yaoqs/open-ebook](https://yaoqs.github.io/open-ebook) <https://github.com/yaoqs/open-ebook>
 
 ## License & Copyright
 
