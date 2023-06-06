@@ -9,22 +9,23 @@
 <!-- TOC -->
 
 - [42](#42)
-    - [reverse engineering for beginners](#reverse-engineering-for-beginners)
-    - [Linux](#linux)
-    - [O’Reilly](#oreilly)
-    - [纪录片](#%E7%BA%AA%E5%BD%95%E7%89%87)
-    - [天气](#%E5%A4%A9%E6%B0%94)
-        - [天气预报API城市代号.xml](#%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5api%E5%9F%8E%E5%B8%82%E4%BB%A3%E5%8F%B7xml)
-    - [china-city-list.csv](#china-city-listcsv)
-    - [学术](#%E5%AD%A6%E6%9C%AF)
-    - [python](#python)
-    - [C/C++](#cc)
-    - [Julia](#julia)
-    - [gitbook](#gitbook)
-    - [powershell](#powershell)
-    - [lua](#lua)
-    - [深度学习/机器学习](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
-    - [License & Copyright](#license--copyright)
+  - [reverse engineering for beginners](#reverse-engineering-for-beginners)
+  - [Linux](#linux)
+  - [O’Reilly](#oreilly)
+  - [纪录片](#纪录片)
+  - [天气](#天气)
+    - [天气预报API城市代号.xml](#天气预报api城市代号xml)
+  - [china-city-list.csv](#china-city-listcsv)
+  - [学术](#学术)
+  - [python](#python)
+  - [C/C++](#cc)
+  - [Julia](#julia)
+  - [gitbook](#gitbook)
+  - [powershell](#powershell)
+  - [lua](#lua)
+  - [深度学习/机器学习](#深度学习机器学习)
+  - [其他](#其他)
+  - [License \& Copyright](#license--copyright)
 
 <!-- /TOC -->
 
@@ -134,6 +135,11 @@ EI 目录
 
 ~~## [yaoqs/open-ebook](https://yaoqs.github.io/open-ebook) <https://github.com/yaoqs/open-ebook> [该项目已结束，转入本项目 20230518]~~
 
+## 其他
+<a id="markdown-%E5%85%B6%E4%BB%96" name="%E5%85%B6%E4%BB%96"></a>
+
+* [《老"码"识途:从机器码到框架的系统观逆向修炼之路》](https://www.gpdf.net/29353.html)以逆向反汇编为线索，自底向上，从探索者的角度，原生态地刻画了对系统机制的学习，以及相关问题的猜测、追踪和解决过程，展现了系统级思维方式的淬炼方法。该思维方式是架构师应具备的一种重要素质。《老"码"识途:从机器码到框架的系统观逆向修炼之路》内容涉及反汇编、底层调试、链接、加载、钩子、异常处理、测试驱动开发、对象模型和机制、线程类封装、跨平台技术、插件框架、设计模式、GUI框架设计等。
+
 ## License & Copyright
 <a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
 
@@ -141,3 +147,5 @@ EI 目录
 * 版权声明：Copyright © 2019-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 * <https://choosealicense.com/licenses/cc-by-sa-4.0/> ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)\
 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+* 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
+* 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <mailto>350788415@qq.com</mailto>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
