@@ -9,6 +9,7 @@
 <!-- TOC -->
 
 - [42](#42)
+  - [resource navigator](#resource-navigator)
   - [reverse engineering for beginners](#reverse-engineering-for-beginners)
   - [Linux](#linux)
   - [O’Reilly](#oreilly)
@@ -28,6 +29,9 @@
   - [License \& Copyright](#license--copyright)
 
 <!-- /TOC -->
+
+## [resource navigator](https://yaoqs.github.io/resource-navigator/)
+<a id="markdown-resource-navigator" name="resource-navigator"></a>
 
 ## reverse engineering for beginners
 <a id="markdown-reverse-engineering-for-beginners" name="reverse-engineering-for-beginners"></a>
